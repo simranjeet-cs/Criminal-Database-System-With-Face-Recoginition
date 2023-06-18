@@ -1,0 +1,9 @@
+/api/insights/_pycache_/*
+/app/_pycache_/
+.idea/
+
+
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+*$py.class
